@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site wide configuration
+
+title: Testing the internet
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: John from the Internet
+  bio: "Trying to build a log on with credentials and interact with a local database."
